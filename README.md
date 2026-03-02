@@ -1,2 +1,2 @@
 # Back-end
-Repositórios para aulas de bac-end
+Repositórios para aulas de back-end
