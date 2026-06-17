@@ -1,3 +1,3 @@
 # Back-end
-Repositórios para aulas de back-end.
+Projetos e atividades desenvolvidos nas aulas de Back-end.
 #
